@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just repository
 Someone typed it here and went out.
